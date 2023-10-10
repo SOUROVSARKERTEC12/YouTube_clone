@@ -36,7 +36,7 @@ export const categories = [
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCBVjMGOIkavEAhyqpxJ73Dw';
-export const demoVideoUrl = '/video/7ghhRHRP6t4';
+export const demoVideoUrl = '/video/RDZiQo7nAkQHU';
 export const demoChannelTitle = 'JavaScript Mastery';
 export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
